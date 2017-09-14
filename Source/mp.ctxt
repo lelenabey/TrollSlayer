@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javax.swing.JPanel\ mp()
+comment0.text=\r\n\ Constructor\ method\ of\ multiplayer\ method\ mode\ object\ class.\r\n
+comment1.params=
+comment1.target=void\ addStuff()
+comment1.text=\r\n\ Adds\ multiple\ components\ onto\ a\ container\r\n\ calling\ addComponenent\ method.\r\n
+comment2.params=container\ c\ x\ y\ width\ height
+comment2.target=void\ addComponent(java.awt.Container,\ java.awt.Component,\ int,\ int,\ int,\ int)
+comment2.text=\r\n\ Adds\ a\ specified\ component\ onto\ a\ container\ object\ at\ \r\n\ a\ set\ of\ co-ordinates\ and\ dimensions.\r\n\ \r\n\ @param\ Container\ container\ object\ componenent\ is\ added\ to\r\n\ @param\ int\ x\ x\ co-ordinate\r\n\ @param\ int\ y\ y\ co-ordinate\r\n\ @param\ int\ width\ width\ of\ component\ being\ added\r\n\ @param\ int\ height\ height\ of\ component\ being\ added\r\n
+numComments=3

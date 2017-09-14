@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javax.swing.JPanel\ Menu()
+comment0.text=\r\n\ Menu\ object\ constructor\ class\r\n\ \r\n\ @return\ Menu\r\n
+comment1.params=
+comment1.target=void\ addStuff()
+comment1.text=\r\n\ Method\ for\ adding\ specified\ components\ onto\ a\ container\ object\r\n\ of\ the\ GUI\ menus\ for\ the\ game\ program.\r\n
+comment2.params=container\ c\ x\ y\ width\ height
+comment2.target=void\ addComponent(java.awt.Container,\ java.awt.Component,\ int,\ int,\ int,\ int)
+comment2.text=\r\n\ Adds\ a\ specified\ component\ onto\ a\ container\ object\ at\ \r\n\ a\ set\ of\ co-ordinates\ and\ dimensions.\r\n\ \r\n\ @param\ Container\ container\ \ \ Container\ that\ a\ Component\ is\ added\ to\r\n\ @param\ int\ x\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ An\ x\ co-ordinate\r\n\ @param\ int\ y\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ A\ y\ co-ordinate\r\n\ @param\ int\ width\ \ \ \ \ \ \ \ \ \ \ \ \ Width\ of\ component\ being\ added\ to\ container\r\n\ @param\ int\ height\ \ \ \ \ \ \ \ \ \ \ \ Height\ of\ component\ being\ added\ to\ container\r\n
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrollSlayer()
+comment0.text=\r\n\ Creates\ new\ Troll\ Slayer\ game\ object.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Calls\ for\ a\ new\ instance\ of\ Troll\ Slayer\ object.\r\n\ \r\n\ @param\ String[]args\ \r\n
+numComments=2
